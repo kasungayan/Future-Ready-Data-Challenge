@@ -1,5 +1,5 @@
 # Future-Ready-Data-Challenge
-My recent submission to the Future Ready Data Challenge conducted by Air Liquide. I achieved overall 4th position in this competetion, among 300 + participants.
+My recent submission to the Future Ready Data Challenge conducted by Air Liquide. I achieved an overall position of 4th among 300 + participants.
 
 **Challenge**: Predicting monthly energy consumption demand of Air Liquide customers using explanatory variables such as Market domain, Time stamp, Type of Gas, Sum of Sales.
 
